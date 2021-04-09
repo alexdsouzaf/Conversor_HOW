@@ -1,2 +1,3 @@
 # Conversor_HOW
-Conversos de binário para decimal e vice versa
+Conversos de binário para decimal e vice versa.
+Trabalho universitário.
